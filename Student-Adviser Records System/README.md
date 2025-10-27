@@ -41,11 +41,7 @@ Follow these steps to set up the project locally:
 
 ---
 
-## 🖼️ 2. **Screenshots or Code Snippets**
-
-Example:
-```markdown
-## 🖼️ Screenshots or Code Snippets
+## 🖼️ **Screenshots or Code Snippets**
 
 ### Homepage (Student List)
 ![Student List Screenshot](![alt text](public/images/StudentList.png))

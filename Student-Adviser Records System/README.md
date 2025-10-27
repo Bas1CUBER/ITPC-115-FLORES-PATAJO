@@ -32,3 +32,44 @@ Follow these steps to set up the project locally:
 1. **Clone or copy the project folder**
    ```bash
    git clone https://github.com/Bas1CUBER/Student-Adviser-Records-System.git
+
+## 🚀 Usage
+
+1. Run the Laravel development server:
+   ```bash
+   php artisan serve
+
+---
+
+## 🖼️ 2. **Screenshots or Code Snippets**
+
+Example:
+```markdown
+## 🖼️ Screenshots or Code Snippets
+
+### Homepage (Student List)
+![Student List Screenshot](![alt text](public/images/StudentList.png))
+
+### Add Student Form
+![Add Student Screenshot](![alt text](public/images/AddStudent.png))
+
+### Example Controller Code
+```php
+public function index()
+{
+    $students = Student::all();
+    return view('students.index', compact('students'));
+}
+
+## 👥 **Contributors**
+
+- **Odrei John C. Patajo**  
+  BS Information Technology – Major in Business Analytics  
+  [GitHub Profile](https://github.com/Bas1CUBER)
+
+
+## 📄 License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project for educational purposes.
+
+© 2025 Odrei John C. Patajo

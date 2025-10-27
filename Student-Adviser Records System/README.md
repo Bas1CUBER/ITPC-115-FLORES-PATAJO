@@ -39,6 +39,15 @@ Follow these steps to set up the project locally:
    ```bash
    php artisan serve
 
+Once the server is running, open your browser and go to:
+[http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+Then:
+1. View the list of students.
+2. Click **Add Student** to create a new record.
+3. Click **View** to display student details.
+4. Click **Edit** to modify information.
+5. Click **Delete** to remove a record.
 ---
 
 ## 🖼️ **Screenshots or Code Snippets**
@@ -56,7 +65,7 @@ public function index()
     $students = Student::all();
     return view('students.index', compact('students'));
 }
-```
+---
 
 ## 👥 **Contributors**
 

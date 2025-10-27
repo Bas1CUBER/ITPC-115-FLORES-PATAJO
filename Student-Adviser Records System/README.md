@@ -40,7 +40,7 @@ Follow these steps to set up the project locally:
    php artisan serve
 
 Once the server is running, open your browser and go to:
-[http://127.0.0.1:8000](http://127.0.0.1:8000)
+[http://127.0.0.1:8000](http://127.0.0.1:8000/students)
 
 Then:
 1. View the list of students.

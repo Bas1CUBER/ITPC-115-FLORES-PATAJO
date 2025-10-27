@@ -53,10 +53,10 @@ Then:
 ## 🖼️ **Screenshots or Code Snippets**
 
 ### Homepage (Student List)
-![Student List Screenshot](public/images/StudentList.png)
+![Student List Screenshot](images/StudentList.png)
 
 ### Add Student Form
-![Add Student Screenshot](public/images/AddStudent.png)
+![Add Student Screenshot](images/AddStudent.png)
 
 ### Example Controller Code
 ```php

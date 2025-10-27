@@ -31,4 +31,4 @@ Follow these steps to set up the project locally:
 
 1. **Clone or copy the project folder**
    ```bash
-   git clone https://github.com/yourusername/student-adviser-system.git
+   git clone https://github.com/Bas1CUBER/Student-Adviser-Records-System.git
